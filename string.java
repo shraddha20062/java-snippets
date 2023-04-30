@@ -1,0 +1,1 @@
+// Declaration of String in Java
